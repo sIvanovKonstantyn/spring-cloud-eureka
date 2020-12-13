@@ -1,0 +1,8 @@
+rootProject.name = 'spring-cloud-eureka'
+
+include 'eureka-server'
+include 'eureka-client1'
+include 'eureka-client1-standby'
+
+include 'eureka-client2'
+
